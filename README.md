@@ -1,1 +1,1 @@
-# progweb2-ex1
+# https://kitswu.github.io/progweb2-ex1/
